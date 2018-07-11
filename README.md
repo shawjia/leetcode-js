@@ -2,4 +2,4 @@
 
 ## solutions
 
-- [461. Hamming Distance](./src/461. Hamming Distance.js)
+- [461. Hamming Distance](./src/461.HammingDistance.js)
