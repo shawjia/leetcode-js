@@ -2,6 +2,7 @@
 
 ## solutions
 
+- [121. Best Time to Buy and Sell Stock](./src/121.BestTimetoBuyandSellStock.js)
 - [136. Single Number](./src/136.SingleNumber.js)
 - [169. Majority Element](./src/169.MajorityElement.js)
 - [191. Number of 1 Bits](./src/191.Numberof1Bits.js)
