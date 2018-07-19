@@ -2,6 +2,7 @@
 
 ## solutions
 
+- [70. Climbing Stairs](./src/70.ClimbingStairs.js)
 - [121. Best Time to Buy and Sell Stock](./src/121.BestTimetoBuyandSellStock.js)
 - [136. Single Number](./src/136.SingleNumber.js)
 - [169. Majority Element](./src/169.MajorityElement.js)
